@@ -1,0 +1,6 @@
+.env
+.env.*
+supabase/.branches
+supabase/.temp
+.claude/
+.DS_Store
